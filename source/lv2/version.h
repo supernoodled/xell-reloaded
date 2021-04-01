@@ -3,7 +3,7 @@
 #define RELEASE ""
 #define BLAME "LibXenon.org"
 #define DATE "2021-04-02"
-#define GITREV "5d5323e"
+#define GITREV "0530c82"
 
 #define VERSION RELEASE "-git-" GITREV
 #define LONGVERSION VERSION " " DATE " (" BLAME ")"

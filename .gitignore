@@ -6,3 +6,4 @@ source/lv2/version.h
 *.elf32
 *.elf32.gz
 
+/.vs

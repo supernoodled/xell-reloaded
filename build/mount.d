@@ -9,7 +9,6 @@ mount.o: /home/xell/xell-reloaded/source/lv2/mount.c \
  /home/xell/xell-reloaded/source/lv2/config.h \
  /usr/local/xenon/usr/include/libfat/fat.h \
  /usr/local/xenon/usr/include/libext2/ext2.h \
- /usr/local/xenon/usr/include/libntfs/ntfs.h \
  /usr/local/xenon/usr/include/libxtaf/xtaf.h \
  /usr/local/xenon/usr/include/iso9660/iso9660.h
 
@@ -32,8 +31,6 @@ mount.o: /home/xell/xell-reloaded/source/lv2/mount.c \
 /usr/local/xenon/usr/include/libfat/fat.h:
 
 /usr/local/xenon/usr/include/libext2/ext2.h:
-
-/usr/local/xenon/usr/include/libntfs/ntfs.h:
 
 /usr/local/xenon/usr/include/libxtaf/xtaf.h:
 
